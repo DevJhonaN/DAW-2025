@@ -75,7 +75,7 @@ main{
 .highlight .highlight-content {
     display: flex;
     gap: 2rem;
-    padding: 2rem 0rem;
+    padding: 2rem 0rem;     
 }
 .highlight .highlight-poster {
     border-radius: 0.5rem;
