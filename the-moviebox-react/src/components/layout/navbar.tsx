@@ -3,6 +3,7 @@ const categories = [
     { label: 'Mais Votados', active: false, link: '/mais-votados' },
     { label: 'Novidades', active: false, link: '/novidades' },
     { label: 'Top10', active: false, link: '/top10' },
+    { label: 'Gêneros', active: false, link: '/generos' },
 
 ];
 
